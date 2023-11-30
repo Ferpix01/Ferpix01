@@ -1,4 +1,4 @@
- 👋
+ Hi 👋
 
 - 🔭 Atualmente estou buscando aprender mais
 - 🌱 Estou aprendendo Javascript e JAVA
