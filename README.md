@@ -1,6 +1,6 @@
  Olá 👋
 
 - 🔭 Atualmente estou buscando aprender mais
-- 🌱 Estou aprendendo Lua e C#
+- 🌱 Estou aprendendo Javascript e JAVA
 - 📫 Estou aberto a novos conhecimentos
 
